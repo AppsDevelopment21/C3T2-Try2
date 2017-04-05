@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_general">0dp</dimen>
+    <dimen name="padding_relative">16dp</dimen>
+    <dimen name="padding_16dp">16dp</dimen>
+    <dimen name="padding_set_date">15dp</dimen>
+    <dimen name="Margin50dp">50dp</dimen>
+    <dimen name="Margin20dp">20dp</dimen>
+    <dimen name="Margin10dp">10dp</dimen>
+
+    <dimen name="date_width">100dp</dimen>
+    <dimen name="date_height">100dp</dimen>
+
+    <dimen name="date_ll_width">300dp</dimen>
+    <dimen name="date_ind_width">150dp</dimen>
+
+    <dimen name="barra2_height">45dp</dimen>
+
+    <dimen name="Texto35dp">35dp</dimen>
+
+
+</resources>

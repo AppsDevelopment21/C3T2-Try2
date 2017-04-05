@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">C3TareaSemana2</string>
+    <string name="app_name2">C3TareaSemana2</string>
+    <string name="app_name3">C3TareaSemana2</string>
+
+    <string name="hint_mail">Correo electrónico</string>
+    <string name="hint_name">Nombre completo</string>
+    <string name="hint_phone">Número telefónico</string>
+    <string name="hint_descripcion">Descripcion general</string>
+
+    <string name="button_next">Siguiente</string>
+    <string name="button_edit">Editar Datos</string>
+
+    <string name="tv_nacimiento1">Set date</string>
+    <string name="tv_nacimiento2">Fecha de nacimiento</string>
+
+    <string name="setDate">Elegir</string>
+    <string name="tv_cancel">Cancel</string>
+
+    <string name="contactoName">NAME</string>
+    <string name="contactoPhone">PHONE</string>
+    <string name="contactoMail">MAIL</string>
+    <string name="contactoFecha">1 de enero de 1900</string>
+    <string name="contactoGeneral"></string>
+
+    <string name="infoPhone">Número telefónico:</string>
+    <string name="infoMail">Correo electrónico:</string>
+    <string name="infoFecha">Fecha de nacimiento:</string>
+    <string name="infoGeneral">Descripción General:</string>
+
+    <string name="pname">nombre</string>
+    <string name="pphone">telefono</string>
+    <string name="pmail">email</string>
+
+</resources>
